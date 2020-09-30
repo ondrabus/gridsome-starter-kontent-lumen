@@ -1,0 +1,21 @@
+{
+  "name": "gridsome-starter-kontent-lumen",
+  "private": true,
+  "scripts": {
+    "build": "gridsome build",
+    "develop": "gridsome develop",
+    "explore": "gridsome explore"
+  },
+  "dependencies": {
+    "@gridsome/remark-prismjs": "^0.4.0",
+    "@meeg/gridsome-source-kentico-kontent": "^0.4.1",
+    "gridsome": "^0.7.20",
+    "moment": "^2.29.0",
+    "v-lazy-image": "^1.4.0",
+    "v-runtime-template": "^1.10.0"
+  },
+  "devDependencies": {
+    "node-sass": "^4.14.1",
+    "sass-loader": "^10.0.2"
+  }
+}

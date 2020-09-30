@@ -1,6 +1,6 @@
 # Gridsome Starter Kontent Lumen
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/Kentico/gridsome-starter-kontent-lumen/master/LICENSE)
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/ondrabus/gridsome-starter-kontent-lumen/master/LICENSE)
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-ASK%20NOW-FE7A16.svg?logo=stackoverflow&logoColor=white)](https://stackoverflow.com/tags/kentico-cloud)
 [![Live demo](https://img.shields.io/badge/-Live%20Demo-brightgreen.svg)](https://gridsome-starter-kontent-lumen.netlify.com/)
 

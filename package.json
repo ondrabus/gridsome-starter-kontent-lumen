@@ -7,6 +7,7 @@
     "explore": "gridsome explore"
   },
   "dependencies": {
+    "@gridsome/plugin-google-analytics": "^0.1.2",
     "@gridsome/remark-prismjs": "^0.4.0",
     "@meeg/gridsome-source-kentico-kontent": "^0.4.1",
     "gridsome": "^0.7.20",

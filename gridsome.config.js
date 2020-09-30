@@ -16,6 +16,12 @@ module.exports = {
           projectId: process.env.KENTICO_KONTENT_PROJECT_ID
         }
       }
+    },
+	{
+      use: '@gridsome/plugin-google-analytics',
+      options: {
+        id: 'UA-XXXXXXXXX-X'
+      }
     }
   ],
   templates: {

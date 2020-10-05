@@ -9,7 +9,7 @@
   "dependencies": {
     "@gridsome/plugin-google-analytics": "^0.1.2",
     "@gridsome/remark-prismjs": "^0.4.0",
-    "@meeg/gridsome-source-kentico-kontent": "^0.4.1",
+    "@meeg/gridsome-source-kentico-kontent": "^0.5.0",
     "gridsome": "^0.7.20",
     "moment": "^2.29.0",
     "v-lazy-image": "^1.4.0",
